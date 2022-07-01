@@ -12,7 +12,7 @@ const About = () => {
             About
           </p>
         </div>
-        <p className="font-signature text-xl mt-5">
+        <p className="font-signature text-xl mt-20">
           Hello world! My name is Alejandro but you can call me Alex. I hold a
           Bachelors of International Commerce and Business from EBC Mexico City
           and have 6+ years of sales, project management and customer service
