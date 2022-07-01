@@ -13,8 +13,8 @@ const Home = () => {
 
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
         <div className="flex flex-col justify-center h-full">
-          <h2 className="text-4xl sm:text-7xl font-bold text-white">
-            <span className="text-[#C685C4]">Hello World!</span> <br/> <span className="text-[#EA5E5E]">I'm</span> <span className="text-[#4D77FF]">Alex,</span> <span className=" text-[#FBBF47]"> a Full Stack Developer <span className="text-[#52B4AE]"> based in </span> <span className=" text-[#C9F658]"> Los Angeles, CA. </span></span>
+          <h2 className="text-4xl sm:text-7xl font-bold text-white"> I am a full stack developer.
+            {/* <span className="text-[#C685C4]">Hello World!</span> <br/> <span className="text-[#EA5E5E]">I'm</span> <span className="text-[#4D77FF]">Alex,</span> <span className=" text-[#FBBF47]"> a Full Stack Developer <span className="text-[#52B4AE]"> based in </span> <span className=" text-[#C9F658]"> Los Angeles, CA. </span></span> */}
           </h2>
           {/* <p className="text-gray-500 py-4 max-w-md"> */}
             {/* Never compare yourself with others... */}
