@@ -16,9 +16,9 @@ const Home = () => {
           <h2 className="text-4xl sm:text-7xl font-bold text-white">
             <span className="text-[#C685C4]">Hello World!</span> <br/> <span className="text-[#EA5E5E]">I'm</span> <span className="text-[#4D77FF]">Alex,</span> <span className=" text-[#FBBF47]"> a Full Stack Developer <span className="text-[#52B4AE]"> based in </span> <span className=" text-[#C9F658]"> Los Angeles, CA. </span></span>
           </h2>
-          <p className="text-gray-500 py-4 max-w-md">
+          {/* <p className="text-gray-500 py-4 max-w-md"> */}
             {/* Never compare yourself with others... */}
-          </p>
+          {/* </p> */}
 
           <div>
             <Link to="portfolio" smooth duration={800} className="font-signature text-white w-fit px-6 py-3 my-2 flex items-center rounded-md cursor-pointer bg-[#4D77FF] group button">

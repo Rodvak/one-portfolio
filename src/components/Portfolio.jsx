@@ -75,9 +75,9 @@ const Portfolio = () => {
           portfolios.map(({id, src, name, tech, ghLink}) => (
             
             <div key={id} className=' shadow-lg shadow-gray-600 rounded-lg'>
-              <p className=' text-center font-signature pb-3'>{name}</p>
+              <p className=' text-center font-signature'>{name}</p>
             <img src={src} alt="" className=' rounded-md duration-200 hover:scale-105' />
-              <p className=' text-center pt-3 font-signature'>{tech}</p>
+              <p className=' text-center font-signature'>{tech}</p>
             <div className=' flex items-center justify-center'>
 
               {/* create an onClick event inside the button to take people into the links. you can have the link in the array at the top, so you can loop over into it */}
