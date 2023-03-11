@@ -16,7 +16,7 @@ const About = () => {
           Hello world! My name is Alejandro but you can call me Alex. I hold a
           Bachelors of International Commerce and Business from EBC Mexico City
           and have 5 years of customer service
-          and 2 in tech Sales. During the pandemic I've come to
+          and 2 in tech Sales experience. During the pandemic I've come to
           realize that life is very short and that we should live every day to
           the fullest. It was the moment I decided to reconect with another of my passions,
           "coding". I am a proud
